@@ -1,0 +1,17 @@
+package package1;
+
+public class B {
+
+	public static void main(String[] args) {
+		
+		byte b = 12;            //1byte
+		short s = 1234;         // 2byte
+		int i = 123456543;      //4 byte
+//		Implicit type casting   --> Compiler will perform
+		
+		
+//Explicit type casting -- > We have to do		
+		long l = 9876543567890L; //8 byte
+		
+	}
+}

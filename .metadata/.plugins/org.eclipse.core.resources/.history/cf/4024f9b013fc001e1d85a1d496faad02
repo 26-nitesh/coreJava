@@ -1,0 +1,23 @@
+package package1;
+
+public class A {
+
+	public static void main(String[] args) {
+	
+//		byte, short, int, long - to store decimal Nos
+		
+//		datatype varibaleName
+		byte a; //declaring a variable
+		
+		a = 12; // initializing a variable
+		
+//		shorthand of above
+		byte b = 13; //Declaration + initialization
+		
+		System.out.println(a);
+		
+//		System.out.println(Byte.MAX_VALUE);
+		
+		
+	}
+}

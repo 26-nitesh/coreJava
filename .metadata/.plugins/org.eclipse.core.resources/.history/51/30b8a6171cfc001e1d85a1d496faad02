@@ -1,0 +1,16 @@
+package package1;
+
+public class Decision2 {
+
+	public static void main(String[] args) {
+		int n = 79;
+		int rem = n % 2;
+
+		if (rem == 0) {
+			System.out.println("EVEN Number");
+		} else {
+			System.out.println("ODD NUMBER");
+		}
+
+	}
+}

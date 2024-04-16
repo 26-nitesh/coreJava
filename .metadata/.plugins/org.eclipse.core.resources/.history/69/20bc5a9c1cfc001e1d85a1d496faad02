@@ -1,0 +1,14 @@
+package p2;
+
+public class Decision {
+
+	public static void main(String[] args) {
+		int n = 78;
+		int rem = n%2;
+		if(rem ==0) {
+			System.out.println("EVEN NUMBER");
+		}else {
+			System.out.println("ODD NUMBER");
+		}
+	}
+}

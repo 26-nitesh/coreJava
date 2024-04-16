@@ -1,0 +1,29 @@
+package package1;
+
+public class Desicion {
+
+	
+//	WE need to find whether a number is even or odd
+	
+	/*
+	 *   2,4,6,8.... even
+	 * 
+	 * 
+	 *    1,3,5,7..... odd
+	 *    
+	 */
+	
+	public static void main(String[] args) {
+		 int n = 79;
+		 int rem = n%2;
+		 if(rem == 0) {
+			 System.out.println("EVEN Number");
+		}else {
+			System.out.println("ODD NUMBER");
+		}
+		 
+		 
+	
+	}
+	
+}

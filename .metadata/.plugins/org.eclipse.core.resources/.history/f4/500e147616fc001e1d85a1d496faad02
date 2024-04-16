@@ -1,0 +1,13 @@
+package package1;
+
+public class B {
+
+	public static void main(String[] args) {
+		
+		byte b = 12;
+		short s = 1234;
+		int i = 123456543;
+		long l = 9876543567890;
+		
+	}
+}

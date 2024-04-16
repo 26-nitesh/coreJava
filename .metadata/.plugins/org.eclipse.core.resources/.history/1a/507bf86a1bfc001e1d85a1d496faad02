@@ -1,0 +1,11 @@
+package package1;
+
+public class Desicion {
+
+	
+//	WE need to find whether a number is even or odd
+	
+	public static void main(String[] args) {
+		
+	}
+}
