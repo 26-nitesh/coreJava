@@ -1,0 +1,68 @@
+Programming Languages -- >
+------------------------------
+->  OS -> Programming Languages intaracts with OS, based on given commands and
+     accordingly produces results
+      ---> Perfomas Computations	 
+-------
+----> eg.  C, C++, C#, Python, JAVA etc
+
+--------------------------------------------------------------
+JAVA--> developed using (c & C++)
+
+------------------------
+Compiler ->  High level(User understable) codes to 
+             low level(which M/C can understand -> 1 0 1 1,(bytes))
+			 
+			 
+			 
+SDK -> Software Development Kit
+--------------------------------
+What happens with the instruction on the machine with java?
+		HIGH LEVEEL- LOW LEVEL-- which executes ON the OS
+		
+	className.java --> with JAVAC-->className.class	--> and this .class can be run
+	by java interpreter. 
+--> JAVA COMPILED + INTERPRETED LANGUAGE
+  --> statically typed ->int,boolean-->
+      String name = "ANy Thing"
+
+--------------
+Python-->
+		var = "asf"
+		PYHTON will not check Syntax
+		INTERPRETED LANGUAGE
+
+-----------------------------------------------------------------
+1. Method/Function -- > 
+
+always comes with ()
+--> it contains some set of instructions, which executes when
+    it is being called and may return the output.
+	
+	
+	int add(3,5) ==>8
+	
+	
+--> someone should call this
+in case of main method -> 
+
+JVM (JAVA VIRTUAL MACHINE) -->CALLS MAIN METHOD
+
+
+2. Class
+-------------------------
+its a BluePrint/Template
+--> Animal-->represiting - > DOG,COW,Monkey--> is instance
+--> CAr is a class then Swift, Dezire etx are instances of Car
+--> Student is a class then Ramesh, Shyam ,Ram are the instances Of Student
+
+3. Object/instance
+----------------------
+
+instace/example of class
+--------------
+Notes --> 
+JAVA PPROGRAM EXECUTES Sequentially line by line
+from the starting of main method and terminates at the end of main method
+
+

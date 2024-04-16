@@ -1,0 +1,79 @@
+RULE -> it has to be followed i.e Mandatory
+Convention -> Not mandatory but good practice
+
+1. Variable: 
+----------------
+its placeholder---> to acoomodate any value temprory.
+ Rule--:
+   a) allowed chars [a-z,A-Z,0-9, _ and $] 
+   b) it can't start with number
+   c)there shoould not be any space between varible name
+      first Name --> Not allowed
+	  first_Name  --> allowed (SNAKE CASING -> PREFFERD IN PYTHON)
+	  firstName----> allowed (camel Casing --> Prefferd in java)
+	  FirstName --> allowed (but the convetion in java says to start 
+							variable name with lowercase)
+	
+	d) variable name can't be a keyword
+	   --> there are some reserved words , termed as keyword which has
+     	   its own meaning
+							
+
+
+DataBase -> to store the data permanentaly
+---------------
+1 byte = 8 bit
+---------------------
+1.4E2  ---> 1.4 * (10)^2 = 1.4 *100 = 140
+1.4E-2 ----> 1.4 * (10)^-2 = 1.4 *0.01 = 0.014
+
+--------
+
+2. Datatype
+   i) Premitive datatypes
+		--> just represnt values
+		total in java 8 types        Memory usage
+		  a) byte (-128 to 127)   --> 1 byte
+		  b) short                --> 2 byte
+		  c) int   (default)               --> 4 byte
+		  d) long                 --> 8 byte
+		// all above datatypes are used to store decimal numbers
+
+		
+		  e) float  (2.687647)
+		  f) double   (default)
+		  // float and double are used to store real numbers
+		  
+		  
+		  g) char  --> $, &, d,a etc
+		  
+		  h) boolean   -> true/false
+   
+   
+   ii) Non - Premitive Datatype
+       --> have some Special Capabilities over Premitive Type
+----------------------------------------------
+--> 
+syntax to declare variable
+ datatype varibaleName
+
+
+---------------------
+3. Operator--->
+   Arithmatic Operator -> +,-,*, /, %-to get reminder
+   
+   == eqaul operator -> equality comparion , 4==4,0==0
+   
+   
+=================================================
+
+Condiational Statements/Descion Making
+--> if/else
+--> switch
+
+
+--------
+WAP to check whether a person is eligible to vote
+---> if age greater or equal 18 Print Eligible else Not
+
+
