@@ -55,6 +55,7 @@ its a BluePrint/Template
 --> Animal-->represiting - > DOG,COW,Monkey--> is instance
 --> CAr is a class then Swift, Dezire etx are instances of Car
 --> Student is a class then Ramesh, Shyam ,Ram are the instances Of Student
+--> Class is a factory which produces object for us.
 
 3. Object/instance
 ----------------------
